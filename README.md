@@ -1,4 +1,4 @@
-# Real-time LangChain Streaming with Django and React
+# Streaming LLM Output with Django, React, and LangChain
 
 <br/><br/>
 
